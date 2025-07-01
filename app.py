@@ -37,6 +37,7 @@ async def predict(
             f"Prediction: {prediction}. Kindly make an appointment with the doctor!"
         }
 
-
+"""
 if __name__ == "__main__":
     uvicorn.run(app, port=8080, host="0.0.0.0")
+"""
